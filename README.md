@@ -1,5 +1,9 @@
 # Projects README
+##🛑 Disclaimer:
 
+📚 Please note that all tools and information provided in this project are intended for educational purposes and security testing only. It is strictly prohibited to use these tools or information for any illegal or unethical purposes, including but not limited to unauthorized hacking, accessing systems or data that do not belong to you.
+
+🔒 We are not responsible for any illegal use of these tools or information. Users are solely responsible for their use of these tools and must comply with local and international laws.
 ## 1. Blind_SQL_injection
 - Description: A tool for testing blind SQL injection vulnerabilities.
 - Usage: Follow the instructions in the project's documentation to test for blind SQL injection vulnerabilities.
