@@ -1,5 +1,5 @@
 # Projects README
-##🛑 Disclaimer:
+🛑 ## Disclaimer:
 
 📚 Please note that all tools and information provided in this project are intended for educational purposes and security testing only. It is strictly prohibited to use these tools or information for any illegal or unethical purposes, including but not limited to unauthorized hacking, accessing systems or data that do not belong to you.
 
